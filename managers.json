@@ -1,0 +1,171 @@
+[
+  {
+    "user_id": "84366849839874048",
+    "settings": null,
+    "metadata": {
+      "mention_pn": "on",
+      "allow_sms": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "998344882936668160",
+    "is_owner": null,
+    "is_bot": null,
+    "display_name": "JayWB",
+    "avatar": "788cbfc4c71a61609b2ee74f10746332"
+  },
+  {
+    "user_id": "732830533951840256",
+    "settings": null,
+    "metadata": {
+      "team_name": "Endzone Evangelist ",
+      "mention_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/b0287e5bdaad6d6088aedda2f2ac2321",
+      "allow_sms": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "998344882936668160",
+    "is_owner": true,
+    "is_bot": false,
+    "display_name": "BloodOfChrist",
+    "avatar": "954516886baf836b208ecab1424e9ac1"
+  },
+  {
+    "user_id": "998344535400857600",
+    "settings": null,
+    "metadata": {
+      "team_name": "Don Juan",
+      "mention_pn": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "998344882936668160",
+    "is_owner": true,
+    "is_bot": false,
+    "display_name": "juansantini",
+    "avatar": "15d7cf259bc30eab8f6120f45f652fb6"
+  },
+  {
+    "user_id": "998388157173362688",
+    "settings": null,
+    "metadata": {
+      "mention_pn": "on",
+      "allow_sms": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "998344882936668160",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "BearMoro",
+    "avatar": "e7af4deab0289b4f5505646424895246"
+  },
+  {
+    "user_id": "998390502569435136",
+    "settings": null,
+    "metadata": {
+      "mention_pn": "on",
+      "allow_sms": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "998344882936668160",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "HessCPA",
+    "avatar": "8eb8f8bf999945d523f2c4033f70473e"
+  },
+  {
+    "user_id": "998392324369686528",
+    "settings": null,
+    "metadata": {
+      "team_name": "Corn on a Schaub",
+      "mention_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/a05820816c7cf3bb68e79d85a70c090d.jpg",
+      "allow_pn": "on"
+    },
+    "league_id": "998344882936668160",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "Anderscheated",
+    "avatar": "8eb8f8bf999945d523f2c4033f70473e"
+  },
+  {
+    "user_id": "998393387323658240",
+    "settings": null,
+    "metadata": {
+      "mention_pn": "on",
+      "allow_sms": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "998344882936668160",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "dognuts3000",
+    "avatar": "b09ea9acdb9bc8e57cfa8b3c252ba9fd"
+  },
+  {
+    "user_id": "998393566776958976",
+    "settings": null,
+    "metadata": {
+      "team_name": "Doral’s Finest",
+      "mention_pn": "on",
+      "allow_sms": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "998344882936668160",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "LosyLos",
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c"
+  },
+  {
+    "user_id": "998395324194541568",
+    "settings": null,
+    "metadata": {
+      "mention_pn": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "998344882936668160",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "GOATGOATGOATGOAT",
+    "avatar": "e7af4deab0289b4f5505646424895246"
+  },
+  {
+    "user_id": "998396451296305152",
+    "settings": null,
+    "metadata": {
+      "mention_pn": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "998344882936668160",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "Nattylites",
+    "avatar": "b3338675f635c2c1f42b469621d38ec6"
+  },
+  {
+    "user_id": "998397850625167360",
+    "settings": null,
+    "metadata": {
+      "mention_pn": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "998344882936668160",
+    "is_owner": false,
+    "is_bot": false,
+    "display_name": "BoobEnthusiast69",
+    "avatar": "e7af4deab0289b4f5505646424895246"
+  },
+  {
+    "user_id": "999821141113929728",
+    "settings": null,
+    "metadata": {
+      "mention_pn": "on",
+      "allow_sms": "on",
+      "allow_pn": "on"
+    },
+    "league_id": "998344882936668160",
+    "is_owner": null,
+    "is_bot": false,
+    "display_name": "califforniaswagger",
+    "avatar": "f0edbf4278f53f9425db175073df6584"
+  }
+]
