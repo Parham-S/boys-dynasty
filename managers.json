@@ -3,6 +3,7 @@
     "user_id": "84366849839874048",
     "settings": null,
     "metadata": {
+      "team_name": "To infinity and Bijan",
       "mention_pn": "on",
       "allow_sms": "on",
       "allow_pn": "on"
@@ -17,7 +18,7 @@
     "user_id": "732830533951840256",
     "settings": null,
     "metadata": {
-      "team_name": "Endzone Evangelist ",
+      "team_name": "Bo Six",
       "mention_pn": "on",
       "avatar": "https://sleepercdn.com/uploads/b0287e5bdaad6d6088aedda2f2ac2321",
       "allow_sms": "on",
@@ -26,14 +27,14 @@
     "league_id": "998344882936668160",
     "is_owner": true,
     "is_bot": false,
-    "display_name": "BloodOfChrist",
+    "display_name": "StanDarsh2",
     "avatar": "954516886baf836b208ecab1424e9ac1"
   },
   {
     "user_id": "998344535400857600",
     "settings": null,
     "metadata": {
-      "team_name": "Don Juan",
+      "team_name": "Brock'd n Loaded",
       "mention_pn": "on",
       "allow_pn": "on"
     },
@@ -83,13 +84,14 @@
     "league_id": "998344882936668160",
     "is_owner": false,
     "is_bot": false,
-    "display_name": "Anderscheated",
+    "display_name": "Truechampion23",
     "avatar": "8eb8f8bf999945d523f2c4033f70473e"
   },
   {
     "user_id": "998393387323658240",
     "settings": null,
     "metadata": {
+      "team_":"Mahomosexuals",
       "mention_pn": "on",
       "allow_sms": "on",
       "allow_pn": "on"
@@ -104,7 +106,7 @@
     "user_id": "998393566776958976",
     "settings": null,
     "metadata": {
-      "team_name": "Doral’s Finest",
+      "team_name": "All Tank No Dell",
       "mention_pn": "on",
       "allow_sms": "on",
       "allow_pn": "on"
@@ -124,14 +126,15 @@
     },
     "league_id": "998344882936668160",
     "is_owner": false,
-    "is_bot": false,
-    "display_name": "GOATGOATGOATGOAT",
+    "is_bot": true,
+    "display_name": "Vacant",
     "avatar": "e7af4deab0289b4f5505646424895246"
   },
   {
     "user_id": "998396451296305152",
     "settings": null,
     "metadata": {
+      "team_name": "Miami Marlins",
       "mention_pn": "on",
       "allow_pn": "on"
     },
